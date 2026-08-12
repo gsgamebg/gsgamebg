@@ -25,7 +25,6 @@ Técnico em Desenvolvimento de Sistemas formado pela **Etec de Lins**, com exper
 
 ### 📬 Vamos Conversar?
 
-- 🌐 **Site Profissional**: [Gabriel.Tech](https://github.com/gsgamebg/projetopessoal)
 - ✉️ **Email**: [gabrielandresouza2@gmail.com](mailto:gabrielandresouza2@gmail.com)
 - 📱 **WhatsApp**: [+55 (14) 99664-6213](https://wa.me/5514996646213)
 - 📍 **Localização**: Lins, São Paulo, Brasil
